@@ -39,15 +39,37 @@ main:
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2022.
+    notes: Best Paper Award
 
   - title: "Training and Predicting Visual Error for Real-Time Applications"
     authors: Joao Liborio Cardoso, <strong>Bernhard Kerbl</strong>, Lei Yang, Yury Uralsky, Michael Wimmer
     conference_short: PACMCGIT
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2022.
 
+  - title: "An Improved Triangle Encoding Scheme for Cached Tessellation"
+    authors: <strong>Bernhard Kerbl</strong>, Linus Horváth, Daniel Cornel, Michael Wimmer
+    conference_short: EG Short
+    conference: Eurographics, Short Papers, 2022.
 
+  - title: "Gaussian Mixture Convolution Networks"
+    authors: Adam Celarek, Pedro Hermosilla, <strong>Bernhard Kerbl</strong>, Timo Ropinski, Michael Wimmer
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2022.
 
+  - title: "CUDA and Applications to Task-based Programming"
+    authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Martin Winter, Markus Steinberger
+    conference_short: EG Tutorial
+    conference: Eurographics, Tutorials, 2022.
 
+  - title: "On Provisioning Procedural Geometry Workloads on Edge Architectures"
+    authors: Ilir Murturi, Chao Jia, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Schahram Dustdar, Christos Tsigkanos
+    conference_short: WEBIST
+    conference: International Conference on Web Information Systems and Technologies, 2021
+
+  - title: "Conservative Meshlet Bounds for Robust Culling of Skinned Meshes"
+    authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl<strong>, Jakob Pernsteiner, Michael Wimmer
+    conference_short: CGF
+    conference: Eurographics, 2021.
 
 
 
