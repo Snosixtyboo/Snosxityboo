@@ -86,6 +86,12 @@ main:
     conference_short: I3D
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2020. 
 
+  - title: "From Ground to Space: Real-time Rendering of Procedural Planets at Arbitrary Altitudes"
+    authors: Florian Michelic, Michael Kenzel, Karl Haubenwallner, <strong>Bernhard Kerbl</strong>, Markus Steinberger
+    conference_short: I3D Poster
+    conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, Posters, 2020. 
+    notes: Best Poster Award
+
   - title: "Revisiting the Vertex Cache: Understanding and Optimizing Vertex Processing on the modern GPU"
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Elvena Ivanchenko, Dieter Schmalstieg, Markus Steinberger
     conference_short: PACMCGIT
@@ -99,5 +105,44 @@ main:
   - title: "A High-Performance Software Graphics Pipeline Architecture for the GPU"
     authors: Michael Kenzel, <strong>Bernhard Kerbl</strong>, Dieter Schmalstieg, Markus Steinberger
     conference_short: ACM TOG
-    conference: SIGGRAPH 2018.
+    conference: SIGGRAPH, 2018.
 
+  - title: "The Broker Queue: A Fast, Linearizable FIFO Queue for Fine-Granular Work Distribution on the GPU"
+    authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Joerg H. Mueller, Dieter Schmalstieg, Markus Steinberger
+    conference_short: ICS
+    conference: International Conference on Supercomputing, 2018.
+
+  - title: "Effective Static Bin Patterns for Sort-middle Rendering"
+    authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Dieter Schmalstieg, Markus Steinberger
+    conference_short: HPG
+    conference: High-Performance Graphics, 2017.
+
+  - title: "Hierarchical Bucket Queuing for Fine-Grained Priority Scheduling on the GPU"
+    authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Dieter Schmalstieg, Hans-Peter Seidel, Markus Steinberger
+    conference_short: CGF
+    conference: Computer Graphics Forum, 2016.
+
+  - title: "Interactive Disassembly Planning for Complex Objects"
+    authors: <strong>Bernhard Kerbl</strong>, Denis Kalkofen, Markus Steinberger, Dieter Schmalstieg
+    conference_short: CGF
+    conference: Eurographics, 2015.
+
+  - title: "Retargeting Technical Documentation to Augmented Reality"
+    authors: Peter Mohr, <strong>Bernhard Kerbl</strong>, Michael Donoser, Dieter Schmalstieg, Denis Kalkofen
+    conference_short: CHI
+    conference: Human Factors in Computing Systems, 2015.
+
+  - title: "Whippletree: Task-based Scheduling of Dynamic Workloads on the GPU"
+    authors: Markus Steinberger, Michael Kenzel, Pedro Boechat, <strong>Bernhard Kerbl</strong>, Mark Dokter, Dieter Schmalstieg
+    conference_short: ACM TOG
+    conference: SIGGRAPH Asia, 2014.
+
+  - title: "Intervention Planning of Hepatocellular Carcinoma Radio-Frequency Ablations"
+    authors: <strong>Bernhard Kerbl</strong>, Philip Voglreiter, Rostislav Khlebnikov, Dieter Schmalstieg, Daniel Seider, Michael Moche, Philipp Stiegler, Rupert H. Portugaller Bernhard Kainz
+    conference_short: MICCAI CLIP
+    conference: Clinical Image-Based Procedures From Planning to Intervention, 2012.
+
+  - title: "Softshell: Dynamic Scheduling on GPUs"
+    authors: Markus Steinberger, Bernhard Kainz, <strong>Bernhard Kerbl</strong>, Stefan Hauswiesner, Michael Kenzel, Dieter Schmalstieg
+    conference_short: ACM TOG
+    conference: SIGGRAPH Asia, 2012.
