@@ -20,3 +20,18 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+
+-	authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Philip Klaus, Michael Wimmer
+  title: GPU-Accelerated LOD Generation for Point Clouds
+  conference_short: PACMCGIT
+	conference: High-Performance Graphics, 2023.
+}
+
+
+
+
+
+
+
+
