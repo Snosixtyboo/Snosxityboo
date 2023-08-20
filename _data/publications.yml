@@ -64,13 +64,17 @@ main:
   - title: "On Provisioning Procedural Geometry Workloads on Edge Architectures"
     authors: Ilir Murturi, Chao Jia, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Schahram Dustdar, Christos Tsigkanos
     conference_short: WEBIST
-    conference: International Conference on Web Information Systems and Technologies, 2021
+    conference: International Conference on Web Information Systems and Technologies, 2021.
 
   - title: "Conservative Meshlet Bounds for Robust Culling of Skinned Meshes"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl<strong>, Jakob Pernsteiner, Michael Wimmer
     conference_short: CGF
     conference: Eurographics, 2021.
 
+  - title: "Rendering Point Clouds with Compute Shaders and Vertex Order Optimization"
+    authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Michael Wimmer
+    conference_short: PACMCGIT
+    conference: High-Performance Graphics, 2021.
 
 
 
