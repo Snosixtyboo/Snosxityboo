@@ -151,6 +151,7 @@ main:
     authors: Peter Mohr, <strong>Bernhard Kerbl</strong>, Michael Donoser, Dieter Schmalstieg, Denis Kalkofen
     conference_short: CHI
     conference: Human Factors in Computing Systems, 2015.
+    image: ./assets/img/retargeting.jpg
 
   - title: "Whippletree: Task-based Scheduling of Dynamic Workloads on the GPU"
     authors: Markus Steinberger, Michael Kenzel, Pedro Boechat, <strong>Bernhard Kerbl</strong>, Mark Dokter, Dieter Schmalstieg
@@ -162,6 +163,7 @@ main:
     authors: <strong>Bernhard Kerbl</strong>, Philip Voglreiter, Rostislav Khlebnikov, Dieter Schmalstieg, Daniel Seider, Michael Moche, Philipp Stiegler, Rupert H. Portugaller Bernhard Kainz
     conference_short: MICCAI CLIP
     conference: Clinical Image-Based Procedures From Planning to Intervention, 2012.
+    image: ./assets/img/rfa.jpg
 
   - title: "Softshell: Dynamic Scheduling on GPUs"
     authors: Markus Steinberger, Bernhard Kainz, <strong>Bernhard Kerbl</strong>, Stefan Hauswiesner, Michael Kenzel, Dieter Schmalstieg
