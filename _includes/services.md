@@ -1,3 +1,14 @@
+## Tutorials and Invited Talks
+
+<ul style="margin:0 0 5px;">
+  <li>Teaching Vulkan, SIGGRAPH ’23, Birds of a Feather Talk, Vulkan: Forging Ahead.</li>
+  <li>A Gentle Introduction to Vulkan for Compute Workloads, HPG ’23, Invited Talk.</li>
+  <li>Transitioning to Vulkan for Compute, Vulkanised ’23, Invited Talk.</li>
+  <li>CUDA and Applications to Task-based Programming, Eurographics ’22, Tutorial.</li>
+  <li>Detailed Geometry for Cloud and Edge Real-Time Rendering, Cloud InnovWave ’21, Invited Talk.</li>
+  <li>Priority-Based Task Management in a GPGPU Megakernel, CESCG ’12, Student Project Presentation.</li>
+</ul>
+
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
