@@ -4,9 +4,6 @@ main:
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Philip Klaus, Michael Wimmer
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/lod.png
 
   - title: 3D Gaussian Splatting for Real-Time Radiance Field Rendering
@@ -14,16 +11,19 @@ main:
     conference_short: ACM TOG
     conference: SIGGRAPH, 2023.
     notes: Best Paper Award
+    image: ./assets/img/splat.jpg
 
   - title: Trim Regions for Online Computation of From-Region Potentially Visible Sets
     authors: Philip Voglreiter, <strong>Bernhard Kerbl</strong>, Alexander Weinrauch, Joerg H. Mueller, Markus Steinberger, Dieter Schmalstieg
     conference_short: ACM TOG
     conference: SIGGRAPH, 2023.
+    image: ./assets/img/trim.jpg
 
   - title: "NeRFshop: Interactive Editing of Neural Radiance Fields"
     authors: Clément Jambon, <strong>Bernhard Kerbl</strong>, Georgios Kopanas, Stavros Diolatzis, Thomas Leimkühler, George Drettakis 
     conference_short: PACMCGIT
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2023.
+    image: ./assets/img/nerfshop.jpg
 
   - title: "Vulkan All the Way: Transitioning to a Modern Low-level Graphics API in Academia"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Michael Wimmer
