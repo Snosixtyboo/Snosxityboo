@@ -96,36 +96,43 @@ main:
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Elvena Ivanchenko, Dieter Schmalstieg, Markus Steinberger
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2018.
+    image: ./assets/img/cache.jpg
 
   - title: "On-the-fly Vertex Reuse for Massively-Parallel Software Geometry Processing"
     authors: Michael Kenzel, <strong>Bernhard Kerbl</strong>, Wolfgang Tatzgern, Elena Ivanchenko, Dieter Schmalstieg, Markus Steinberger
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2018.
+    image: ./assets/img/reuse.jpg
 
   - title: "A High-Performance Software Graphics Pipeline Architecture for the GPU"
     authors: Michael Kenzel, <strong>Bernhard Kerbl</strong>, Dieter Schmalstieg, Markus Steinberger
     conference_short: ACM TOG
     conference: SIGGRAPH, 2018.
+    image: ./assets/img/cure.jpg
 
   - title: "The Broker Queue: A Fast, Linearizable FIFO Queue for Fine-Granular Work Distribution on the GPU"
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Joerg H. Mueller, Dieter Schmalstieg, Markus Steinberger
     conference_short: ICS
     conference: International Conference on Supercomputing, 2018.
+    image: ./assets/img/broker.jpg
 
   - title: "Effective Static Bin Patterns for Sort-middle Rendering"
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Dieter Schmalstieg, Markus Steinberger
     conference_short: HPG
     conference: High-Performance Graphics, 2017.
+    image: ./assets/img/binning.jpg
 
   - title: "Hierarchical Bucket Queuing for Fine-Grained Priority Scheduling on the GPU"
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Dieter Schmalstieg, Hans-Peter Seidel, Markus Steinberger
     conference_short: CGF
     conference: Computer Graphics Forum, 2016.
+    image: ./assets/img/bucket.jpg
 
   - title: "Interactive Disassembly Planning for Complex Objects"
     authors: <strong>Bernhard Kerbl</strong>, Denis Kalkofen, Markus Steinberger, Dieter Schmalstieg
     conference_short: CGF
     conference: Eurographics, 2015.
+    image: ./assets/img/disassembly.jpg
 
   - title: "Retargeting Technical Documentation to Augmented Reality"
     authors: Peter Mohr, <strong>Bernhard Kerbl</strong>, Michael Donoser, Dieter Schmalstieg, Denis Kalkofen
@@ -136,6 +143,7 @@ main:
     authors: Markus Steinberger, Michael Kenzel, Pedro Boechat, <strong>Bernhard Kerbl</strong>, Mark Dokter, Dieter Schmalstieg
     conference_short: ACM TOG
     conference: SIGGRAPH Asia, 2014.
+    image: ./assets/img/whippletree.jpg
 
   - title: "Intervention Planning of Hepatocellular Carcinoma Radio-Frequency Ablations"
     authors: <strong>Bernhard Kerbl</strong>, Philip Voglreiter, Rostislav Khlebnikov, Dieter Schmalstieg, Daniel Seider, Michael Moche, Philipp Stiegler, Rupert H. Portugaller Bernhard Kainz
@@ -146,3 +154,4 @@ main:
     authors: Markus Steinberger, Bernhard Kainz, <strong>Bernhard Kerbl</strong>, Stefan Hauswiesner, Michael Kenzel, Dieter Schmalstieg
     conference_short: ACM TOG
     conference: SIGGRAPH Asia, 2012.
+    image: ./assets/img/softshell.jpg
