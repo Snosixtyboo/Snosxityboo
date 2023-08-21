@@ -35,7 +35,7 @@ main:
     authors: Jozef Hladky, Michael Stengel, Nicholas Vining, <strong>Bernhard Kerbl</strong>, Hans-Peter Seidel, Markus Steinberger
     conference_short: ACM TOG
     conference: SIGGRAPH Asia, 2022.
-    image: ./assets/img/quadstream.png
+    image: ./assets/img/quadstream.jpg
 
   - title: "Software Rasterization of 2 Billion Points in Real Time"
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>
@@ -66,37 +66,44 @@ main:
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Martin Winter, Markus Steinberger
     conference_short: EG Tutorial
     conference: Eurographics, Tutorials, 2022.
+    image: ./assets/img/cuda.png
 
   - title: "On Provisioning Procedural Geometry Workloads on Edge Architectures"
     authors: Ilir Murturi, Chao Jia, <strong>Bernhard Kerbl</strong>, Michael Wimmer, Schahram Dustdar, Christos Tsigkanos
     conference_short: WEBIST
     conference: International Conference on Web Information Systems and Technologies, 2021.
+    image: ./assets/img/procedural.png
 
   - title: "Conservative Meshlet Bounds for Robust Culling of Skinned Meshes"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Jakob Pernsteiner, Michael Wimmer
     conference_short: CGF
     conference: Eurographics, 2021.
+    image: ./assets/img/meshlet.png
 
   - title: "Rendering Point Clouds with Compute Shaders and Vertex Order Optimization"
     authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Michael Wimmer
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2021.
+    image: ./assets/img/pc.png
 
   - title: "Fast Multi-View Rendering for Real-Time Applications"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Markus Steinberger, Dieter Schmalstieg, Michael Wimmer
     conference_short: EGPGV
     conference: Eurographics Symposium on Parallel Graphics and Visualization, 2020.
+    image: ./assets/img/multiview.png
 
   - title: "Stochastic Substitute Trees for Real-Time Global Illumination"
     authors: Wolfgang Tatzgern, Benedikt Mayr, <strong>Bernhard Kerbl</strong>, Markus Steinberger
     conference_short: I3D
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, 2020. 
+    image: ./assets/img/subtrees.png
 
   - title: "From Ground to Space: Real-time Rendering of Procedural Planets at Arbitrary Altitudes"
     authors: Florian Michelic, Michael Kenzel, Karl Haubenwallner, <strong>Bernhard Kerbl</strong>, Markus Steinberger
     conference_short: I3D Poster
     conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, Posters, 2019. 
     notes: Best Poster Award
+    image: ./assets/img/planets.png
 
   - title: "Revisiting the Vertex Cache: Understanding and Optimizing Vertex Processing on the modern GPU"
     authors: <strong>Bernhard Kerbl</strong>, Michael Kenzel, Elvena Ivanchenko, Dieter Schmalstieg, Markus Steinberger
