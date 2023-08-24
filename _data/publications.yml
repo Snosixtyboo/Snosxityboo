@@ -38,7 +38,7 @@ main:
     image: ./assets/img/quadstream.jpg
 
   - title: "Software Rasterization of 2 Billion Points in Real Time"
-    authors: Markus Schütz, <strong>Bernhard Kerbl</strong>
+    authors: Markus Schütz, <strong>Bernhard Kerbl</strong>, Michael Wimmer
     conference_short: PACMCGIT
     conference: High-Performance Graphics, 2022.
     notes: 🏆 Best Paper Award
@@ -77,7 +77,7 @@ main:
   - title: "Conservative Meshlet Bounds for Robust Culling of Skinned Meshes"
     authors: Johannes Unterguggenberger, <strong>Bernhard Kerbl</strong>, Jakob Pernsteiner, Michael Wimmer
     conference_short: CGF
-    conference: Eurographics, 2021.
+    conference: Pacific Graphics, 2021.
     image: ./assets/img/meshlet.png
 
   - title: "Rendering Point Clouds with Compute Shaders and Vertex Order Optimization"
